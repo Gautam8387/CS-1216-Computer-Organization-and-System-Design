@@ -1,3 +1,9 @@
+#########################
+# Gautam Ahuja
+# CS-1216-Computer-Organization-and-System-Design: Monsoon 2022
+# Manu Awasthi
+#########################
+
 .data 		# To specify the data segment, and initiate variables
 inputPrompt:       .asciiz "Enter String: "
 printTrue:	   .asciiz "Yes, the string is a palindrome."
